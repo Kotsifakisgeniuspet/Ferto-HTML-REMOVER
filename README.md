@@ -4,7 +4,7 @@
 
 ## Getting started
 There are two ways to load Excel, CSV file into the application, by clicking on the menu **File > Load** or just **drag & drop**,
-after the file is loaded add word or regular expression below and save the list in case you want to reuse the same list next time, select two more things...the right Sheet & Column and that's it, and now comes the good part choose your favorite name and export it.
+after the file is loaded add word or regular expression below and save the list in case you want to reuse the same list next time, select the right Sheet & Column and that's it, and now comes the good part choose your favorite name & file type and export it.
 
 You forgot something?, don't worry, the application is smart enough to tell you what you did wrong.
 
