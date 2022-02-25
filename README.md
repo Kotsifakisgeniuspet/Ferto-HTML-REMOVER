@@ -7,4 +7,6 @@
 
 ## Getting started
 
-1. there is two ways to load the file, by clicking on File > Load or just drag and drop the file into the app.
+- Load a file
+  - File > Load
+  - Drag & drop
