@@ -16,3 +16,7 @@ Easy right? Have fun!
 * Adding multiple words into the list
 * Save & Load list.
 * Remove items from the list.
+
+unfortunately the file is over 25 MB and i can't upload it into GitHub so i did upload it on WeTransfer, Have fun.
+
+[Download app](https://we.tl/t-6ocRn00Evs).
