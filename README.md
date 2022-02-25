@@ -7,6 +7,9 @@
 
 ## Getting started
 
-- Load a file
-  - File > Load
-  - Drag & drop
+There is two ways to load Excel, Csv file into the application, by clickong on the menu **File > Load** or just **drag & drop**
+
+###Features & Functionality
+* Read & Write Csv, Excel
+* Save & Load your favorit list
+* Reading in real-time Sheets & Columns
