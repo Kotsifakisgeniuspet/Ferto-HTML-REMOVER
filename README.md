@@ -17,6 +17,8 @@ Easy right? Have fun!
 * Save & Load list.
 * Remove items from the list.
 
+P.S The XML, Json & HTML doesnt work for now, but ill fix some issues with the GUI & Backend.
+
 unfortunately the file is over 25 MB and i can't upload it into GitHub so i did upload it on WeTransfer, Have fun.
 
 [Download app](https://we.tl/t-6ocRn00Evs).
