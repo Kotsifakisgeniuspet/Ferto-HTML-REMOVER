@@ -1,8 +1,6 @@
+![alt FERTO HTML Remover](https://dl.dropbox.com/s/i261abdolwh48br/Ferto-icon.png?dl=0)
 ## FERTO HTML Remover
 ###### *Version (1.0 - Demo)*
-
-
-![alt FERTO HTML Remover](https://dl.dropbox.com/s/i261abdolwh48br/Ferto-icon.png?dl=0)
 
 
 ## Getting started
@@ -11,6 +9,7 @@ There is two ways to load Excel, Csv file into the application, by clickong on t
 
 ### Features & Functionality
 * Read & Write Csv, Excel.
-* Save & Load list.
 * Reading in real-time Sheets & Columns.
+* Save & Load list.
 * Remove items from the list.
+
